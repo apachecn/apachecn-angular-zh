@@ -36,7 +36,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 每个人心里都有一个死小孩。——《龙族II》
+> 每一个大人都曾经是一个孩子，只不过我们忘记了。——《小王子》
 
 * [在线阅读](https://{domain}.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
