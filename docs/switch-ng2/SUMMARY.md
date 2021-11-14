@@ -5,6 +5,6 @@
 +   [三、TypeScript 速成课](3.md)
 +   [四、Angular 2 组件和指令入门](4.md)
 +   [五、Angular 2 中的依赖注入](5.md)
-+   [六、使用 Angular 2 路由器和表单](6.md)
++   [六、使用 Angular 2 路由和表单](6.md)
 +   [七、解释管道和与 RESTful 服务的通信](7.md)
 +   [八、开发经验及服务器端渲染](8.md)
