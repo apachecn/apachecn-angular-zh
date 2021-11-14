@@ -1,8 +1,8 @@
-# 第四节：部署与实践
+# 第四部分：部署与实践
 
-本节介绍如何使用 Angular CLI 10 将 Angular 10 应用程序部署到宿主提供商，以及如何使用获得的知识构建真实世界的 Angular 10 应用程序。
+本节介绍如何使用 Angular CLI 10 将 Angular 10 应用部署到宿主提供商，以及如何使用获得的知识构建真实世界的 Angular 10 应用。
 
 本部分包括以下章节：
 
-*   [*第 12 章*](12.html#_idTextAnchor268)*，将一款角度应用程序带入生产*
-*   [*第 13 章*](13.html#_idTextAnchor275)*，开发一款真实世界的角度应用*
+*   [*第 12 章*](12.html#_idTextAnchor268)*，将一款Angular应用带入生产*
+*   [*第 13 章*](13.html#_idTextAnchor275)*，开发一款真实世界的Angular应用*
