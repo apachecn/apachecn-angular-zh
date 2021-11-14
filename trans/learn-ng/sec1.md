@@ -1,4 +1,4 @@
-# 第一部分：从Angular出发
+# 第一部分：从 Angular 出发
 
 本节介绍如何使用 Angular CLI 10 构建一个简单的 Hello World 应用，并介绍编写 Angular 应用时使用的 TypeScript 语言的基础知识。
 
