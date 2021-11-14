@@ -67,7 +67,7 @@
     +   [三、TypeScript 速成课](docs/switch-ng2/3.md)
     +   [四、Angular 2 组件和指令入门](docs/switch-ng2/4.md)
     +   [五、Angular 2 中的依赖注入](docs/switch-ng2/5.md)
-    +   [六、使用 Angular 2 路由器和表单](docs/switch-ng2/6.md)
+    +   [六、使用 Angular 2 路由和表单](docs/switch-ng2/6.md)
     +   [七、解释管道和与 RESTful 服务的通信](docs/switch-ng2/7.md)
     +   [八、开发经验及服务器端渲染](docs/switch-ng2/8.md)
 +   [Angular 和 BootStrap Web 开发](docs/web-dev-ng-boots-3e/README.md)
