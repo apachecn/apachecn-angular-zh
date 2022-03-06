@@ -1,1 +1,1 @@
-# 第二部分详细Angular
+# 第二部分：Angular细节
